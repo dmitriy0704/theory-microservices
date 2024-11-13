@@ -15,8 +15,6 @@
 - Route Locator
 - Cache
  
-
-
 ## DISCOVERY SERVER
 
 Eureka/Consul
